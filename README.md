@@ -13,7 +13,7 @@ CARA PASANG
     storageBucket: '',
     messagingSenderId: "4"
    };
- 3. Run Menggunakan ionic serve -l supaya otomati Membuat Folder www atau bisa coba ionic restore untuk Kembalikan ke versi Default
+ 3. Run Menggunakan ionic serve -l supaya otomati Membuat Folder www atau bisa coba ionic restore.
  
  4. Selamat Mencoba ^_^
  
