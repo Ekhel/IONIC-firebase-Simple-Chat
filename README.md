@@ -18,4 +18,4 @@ CARA PASANG
  4. Selamat Mencoba ^_^
  
  
- Keterangan : Saya Menggunakan VS Code Di COnsole Terminal VS Code.
+ Keterangan : Saya Menggunakan COnsole Terminal VS Code.
