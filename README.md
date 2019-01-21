@@ -1,4 +1,4 @@
-IONIC Firebase Simple Chat.
+------ IONIC DAN FIREBASASE + ANGULAR 5
 
 CARA PASANG
 ----------------------------------------------------------------------------------------------
