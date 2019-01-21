@@ -15,4 +15,7 @@ CARA PASANG
    };
  3. Run Menggunakan ionic serve -l supaya otomati Membuat Folder www atau bisa coba ionic restore untuk Kembalikan ke versi Default
  
- 4. Selamat Mencoba.
+ 4. Selamat Mencoba ^_^
+ 
+ 
+ Keterangan : Saya Menggunakan VS Code Di COnsole Terminal VS Code.
